@@ -1,0 +1,215 @@
+{
+    "success": 1,
+    "info": "请求成功",
+    "code": 1001,
+    "list": [
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "专经对万",
+                    "num": 1352,
+                    "price": 25
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "状导南",
+                    "num": 6133,
+                    "price": 69
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "全改",
+                    "num": 8547,
+                    "price": 47
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "教们者",
+                    "num": 3712,
+                    "price": 17
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "支接学可置",
+                    "num": 730,
+                    "price": 55
+                }
+            ],
+            "title": "热销"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "指边地身",
+                    "num": 5855,
+                    "price": 24
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "结亲料体",
+                    "num": 9917,
+                    "price": 63
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "铁任界",
+                    "num": 1161,
+                    "price": 15
+                }
+            ],
+            "title": "饮料"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "和族老内",
+                    "num": 7251,
+                    "price": 60
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "满许打小",
+                    "num": 7819,
+                    "price": 89
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "专两参平",
+                    "num": 4321,
+                    "price": 11
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "说门级",
+                    "num": 413,
+                    "price": 33
+                }
+            ],
+            "title": "酱肉类"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "易同容",
+                    "num": 5960,
+                    "price": 68
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "增过复",
+                    "num": 5061,
+                    "price": 44
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "新去温党",
+                    "num": 9697,
+                    "price": 60
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "导要",
+                    "num": 8900,
+                    "price": 30
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "则引速",
+                    "num": 1561,
+                    "price": 91
+                }
+            ],
+            "title": "烧饼类"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "者米",
+                    "num": 6110,
+                    "price": 70
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "压较火那在",
+                    "num": 9984,
+                    "price": 94
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "省石之",
+                    "num": 3180,
+                    "price": 35
+                }
+            ],
+            "title": "凉菜类"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "要生选",
+                    "num": 1989,
+                    "price": 79
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "引步",
+                    "num": 2443,
+                    "price": 14
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "许性内",
+                    "num": 7402,
+                    "price": 58
+                }
+            ],
+            "title": "进店必买"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "手许集",
+                    "num": 4809,
+                    "price": 74
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "圆矿准",
+                    "num": 7598,
+                    "price": 36
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "自府",
+                    "num": 5261,
+                    "price": 9
+                }
+            ],
+            "title": "汤类"
+        },
+        {
+            "meallist": [
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "拉老",
+                    "num": 1980,
+                    "price": 22
+                },
+                {
+                    "img": "http://dummyimage.com/10×10/79f292/FFF.png&text=!",
+                    "name": "众革具结同",
+                    "num": 4564,
+                    "price": 6
+                }
+            ],
+            "title": "套餐类"
+        }
+    ]
+}
